@@ -1,0 +1,11 @@
+﻿  Gold Miner.cpp
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(98,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(102,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(122,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(198,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(199,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(203,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(204,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(210,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\醉尘念雨\source\repos\Gold Miner\Gold Miner\Gold Miner.cpp(211,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Gold Miner.vcxproj -> C:\Users\醉尘念雨\source\repos\Gold Miner\Debug\Gold Miner.exe
